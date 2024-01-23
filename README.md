@@ -52,5 +52,6 @@ Further work can be done on the model to get better accuracy and for a larger nu
 
 ## Refrences
 https://github.com/google/mediapipe/blob/master/docs/solutions/holistic.md
+
 https://docs.streamlit.io/
 
